@@ -1,0 +1,1 @@
+export const DETAIL_ARTICLE = 'detail/detail_article';
